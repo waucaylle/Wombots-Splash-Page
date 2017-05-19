@@ -1,2 +1,2 @@
-# Wombots-Splash-Page
-Chingu Cohort Project
+# Yellow Lightining Salamanders
+Chingu Cohort Splash Page
